@@ -6,9 +6,9 @@
 .navigation {float:right;margin-top: 15px }
 .navigation_list {list-style:none;}
 .navigation_list li {display: inline; margin-left: 35px}
-li a {font-family: verdana; font-size: 14px; color: #0c9bdd; text-decoration: none;}
+li a {font-family: verdana; font-size: 14px; color: #0c9bdd; text-decoration: none; padding-bottom: 6px}
 li a:hover {color: #ffffff}
-li a:active {color: #ffffff; font-weight: bold;}
+li a:active {color: #ffffff; font-weight: bold; background: url(../img/nav_arrow.png) bottom center no-repeat ;}
 .description {}
 .description_wrapper {padding-left: 300px;padding-top: 37px;padding-bottom: 43px; background: url(../img/phone.png) no-repeat 0px 19px;}
 .main_txt p {font-family: verdana; font-size:12px; color: #ffffff; text-align: justify;}
