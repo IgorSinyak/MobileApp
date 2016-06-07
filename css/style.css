@@ -38,7 +38,7 @@ span {color: #ffffff; font-weight: normal;}
 .gallery_link {float: right; margin-top: 10px}
 .gallery_link a {font-family: verdana; font-size: 12px; color: #00afff; font-style: italic; text-decoration: none;}
 .content {overflow: hidden}
-#header_bg {background: url(../img/header_bg_full.png); background-size: 100%}
-#description_bg {background: url(../img/description_bg_full.png) center no-repeat; background-size: 100%}
-#content_bg {background: url(../img/content_bg_full.png) center; border-bottom: 3px double #323232;border-top: 3px double #323232; background-size: 100%}
+#header_bg {background: url(../img/header_bg_full.png); background-size: 100% 100%}
+#description_bg {background: url(../img/description_bg_full.png) center no-repeat; background-size: 100% 100%}
+#content_bg {background: url(../img/content_bg_full.png) center; border-bottom: 3px double #323232;border-top: 3px double #323232; background-size: 100% 100%}
 #footer_bg {background: #0a0a0a }
